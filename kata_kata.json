@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "kata": "Senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 2,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 3,
+    "kata": "jangan mencintai sebab terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 4,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 5,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 6,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 7,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 8,
+    "kata": "Kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 9,
+    "kata": "dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 10,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 11,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 12,
+    "kata": "Tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 13,
+    "kata": "Diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 14,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 15,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 16,
+    "kata": "Senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 17,
+    "kata": "Perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 18,
+    "kata": "jangan mencintai sebab terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 19,
+    "kata": "Kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 20,
+    "kata": "Jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 21,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 22,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 23,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 24,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 25,
+    "kata": "Dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 26,
+    "kata": "Jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 27,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 28,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 29,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 30,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 31,
+    "kata": "Kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 32,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 33,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 34,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 35,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 36,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 37,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 38,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 39,
+    "kata": "Perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 40,
+    "kata": "Senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 41,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 42,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 43,
+    "kata": "Dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 44,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 45,
+    "kata": "Perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 46,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 47,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 48,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 49,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 50,
+    "kata": "jangan mencintai sebab terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 51,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 52,
+    "kata": "Dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 53,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 54,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 55,
+    "kata": "jangan mencintai sebab terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 56,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 57,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 58,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 59,
+    "kata": "Kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 60,
+    "kata": "dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 61,
+    "kata": "dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 62,
+    "kata": "Kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 63,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 64,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 65,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 66,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 67,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 68,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 69,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 70,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 71,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 72,
+    "kata": "dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 73,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 74,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 75,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 76,
+    "kata": "Jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 77,
+    "kata": "Jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 78,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 79,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 80,
+    "kata": "Senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 81,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 82,
+    "kata": "Tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 83,
+    "kata": "Kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 84,
+    "kata": "Tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 85,
+    "kata": "Perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 86,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 87,
+    "kata": "Kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 88,
+    "kata": "Ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 89,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 90,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 91,
+    "kata": "Senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 92,
+    "kata": "Perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 93,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 94,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 95,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 96,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 97,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 98,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 99,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 100,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 101,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 102,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 103,
+    "kata": "Jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 104,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 105,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 106,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 107,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 108,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 109,
+    "kata": "Perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 110,
+    "kata": "jangan mencintai sebab terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 111,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 112,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 113,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 114,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 115,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 116,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 117,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 118,
+    "kata": "Perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 119,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 120,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 121,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 122,
+    "kata": "Diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 123,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 124,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 125,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 126,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 127,
+    "kata": "Dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 128,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 129,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 130,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 131,
+    "kata": "Dia menatap sebab memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 132,
+    "kata": "Jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 133,
+    "kata": "Jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 134,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 135,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 136,
+    "kata": "Ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 137,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 138,
+    "kata": "Dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 139,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 140,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 141,
+    "kata": "Tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 142,
+    "kata": "Senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 143,
+    "kata": "Ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 144,
+    "kata": "Jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 145,
+    "kata": "Diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 146,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 147,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 148,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 149,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 150,
+    "kata": "tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 151,
+    "kata": "Tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 152,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 153,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 154,
+    "kata": "Jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 155,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 156,
+    "kata": "Dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 157,
+    "kata": "Jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 158,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 159,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 160,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 161,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 162,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 163,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 164,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 165,
+    "kata": "Tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 166,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 167,
+    "kata": "dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 168,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 169,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 170,
+    "kata": "Jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 171,
+    "kata": "Tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 172,
+    "kata": "Ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 173,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 174,
+    "kata": "Kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 175,
+    "kata": "Ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 176,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 177,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 178,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 179,
+    "kata": "kadang yang membuat bahagia justru yang tidak bisa dimiliki"
+  },
+  {
+    "id": 180,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 181,
+    "kata": "Perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 182,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 183,
+    "kata": "Beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 184,
+    "kata": "jangan mencintai karena terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 185,
+    "kata": "dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 186,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 187,
+    "kata": "ia datang hanya sekadar lewat, bukan ingin menetap"
+  },
+  {
+    "id": 188,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 189,
+    "kata": "diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 190,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 191,
+    "kata": "Dia menatap karena memiliki mata, bukan memiliki rasa"
+  },
+  {
+    "id": 192,
+    "kata": "Jangan mencintai sebab terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 193,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  },
+  {
+    "id": 194,
+    "kata": "beberapa rasa memang hanya dititipkan, bukan untuk dimiliki"
+  },
+  {
+    "id": 195,
+    "kata": "Tidak semua yang dekat ingin menetap"
+  },
+  {
+    "id": 196,
+    "kata": "jangan mencintai sebab terbiasa, sebab ketika bosan, semuanya akan sia-sia"
+  },
+  {
+    "id": 197,
+    "kata": "senyumku bukan undangan, hanya bentuk kebiasaan"
+  },
+  {
+    "id": 198,
+    "kata": "perhatian tidak selalu berarti perasaan"
+  },
+  {
+    "id": 199,
+    "kata": "Diam bukan berarti tidak peduli, kadang itu bentuk paling dalam dari perhatian"
+  },
+  {
+    "id": 200,
+    "kata": "jangan salah paham, aku hanya ramah, bukan berharap"
+  }
+]
